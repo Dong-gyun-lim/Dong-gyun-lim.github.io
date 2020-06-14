@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors                 = ["Start Bootstrap"]
 
   spec.summary                 = %q{Freelancer is a one page Bootstrap portfolio theme for freelancers.}
-  spec.homepage                = "https://github.com/jeromelachaud/freelancer-theme"
+  spec.homepage                = "https://Dong-gyun-lim.github.io"
   spec.licenses                = ["MIT"]
 
   spec.metadata["plugin_type"] = "theme"
