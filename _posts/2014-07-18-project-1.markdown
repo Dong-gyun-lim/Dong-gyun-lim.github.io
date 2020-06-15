@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2020-06-14
-img: cyber.png
+img: 
 alt: image-alt
 project-date: June-14
 client: Start Bootstrap
