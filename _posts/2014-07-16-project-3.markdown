@@ -7,5 +7,10 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.                             ㅇ론ㅇ럭ㄹㄴㅇ                       ㅇ나ㅣ하ㅗㄴ귷                       ㅇ놀ㄴㅇㅍㅎ
+description: 동아리 소개
+description: ㄴㅇㄹㄹ혼ㅇ헌
+description: ㅇㅎ뉴ㅗㅑㅏ허넣ㄴ
+description: 뉴혀야한운ㅇ
+description: 령넣ㄴㅇ랜휸애
+description: 
 ---
