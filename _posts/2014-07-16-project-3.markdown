@@ -7,5 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: *취업/진로분야 *공공기관, 금융, 인터넷 쇼핑몰의 정보보호 관련 부서 시스템보안, 네트워크보안, 서비스보안 등의 정보보호 업무 및
+description: 취업/진로분야 공공기관, 금융, 인터넷 쇼핑몰의 정보보호 관련 부서 시스템보안, 네트워크보안, 서비스보안 등의 정보보호 업무 및
 ---
