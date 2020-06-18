@@ -4,8 +4,8 @@ modal-id: 2
 date: 2014-07-17
 img: license.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: June
+client: GOOD
 category: 자격증
 description: 자격증<p>국내 자격증</p> <p>정보보안산업기사/기사 // 한국산업인력공단</p> <p>정보처리산업기사/기사 // 한국산업인력공단</p> <p>전자상거래관리사 (2급이상) // 대한상공회의소</p> <p>전자상거래운용사 // 대한산업인력공단</p> <p>ISN(정보보안관리사) 1,2급 // 정보통신컴퓨터자격관리협회</p> <p>인터넷보안전문가1,2급 // 한국정보통신자격협회</p> <p>네트워크관리사 // 한국정보통신자격협회</p> <p>SIS(정보보호전문가)1,2급 // KISA, ICU</p> <p>네트워크관리사 // 한국정보통신자격협회</p> <p>시스템관리사 // 한국정보통신인력개발센터</p> <p>리눅스마스터 // 한국정보통신인력개발센터</p> <p>인터넷정보관리사 // 한국정보통신인력개발센터</p> <p>PC 정비사 // 한국정보통신자격협회</p> <p>PCT(PC활용능력평가시험) // 한국정보통신인력개발센터</p> <p>정보기기운용기능사 // 한국산업인력공단</p> <p>국제 자격증</p> <p>CISSP(국제공인 정보시스템 보안전문가 . Certified Information System Security Professional) // ISC2</p> <p>CISA(국제공인 정보시스템 감사사 . Certified Information Systems Auditor) // ISACA</p> <p>RHCE(국제공인 레드햇리눅스 전문가 . RedHat Certified Engineer)</p> <p>LPIC(국제공인 리눅스 전문가 . Linux Professional Institute Certification)</p> <p>CEH(국제윤리적해커) // EC-Council</p> <p>CCNA(Cisco Certified Network Associate)</p>
 ---
